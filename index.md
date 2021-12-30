@@ -1,10 +1,9 @@
-# Mickaël Tacnet
-
-## Présentation
+# Présentation
 
 Bonjour, je suis Mickaël Tacnet, développeur orienté back-end @[Gammeo](http://gammeo.com)
 
 Ceci est mon blog **personnel**. <br>
+
 Vous trouverez ici divers posts traitant de sujets techniques (ou pas). <br>
 Je mettrais également à disposition divers pense-bêtes m'étant destinés, mais que vous êtes libre de copier et diffuser comme bon vous le semble. <br>
 
