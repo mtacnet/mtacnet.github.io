@@ -1,4 +1,6 @@
-# Présentation
+# Accueil
+
+## Présentation
 
 Bonjour, je suis Mickaël Tacnet, développeur orienté back-end @[Gammeo](http://gammeo.com)
 
