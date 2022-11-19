@@ -1,6 +1,6 @@
-# mtacnet.tech
+# mtacnet.fr
 
-Ceci est mon [blog](https://mtacnet.tech) personnel.
+Ceci est mon [blog](https://mtacnet.fr) personnel.
 
 Vous y trouverez divers posts traitant de sujets techniques (ou pas).
 
