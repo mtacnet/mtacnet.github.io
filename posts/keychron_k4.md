@@ -6,7 +6,9 @@ Cet article présente comment configurer un **clavier Keychron K4** sous Linux.
 
 Nous verrons comment activer et utiliser les touches de fonction mais également les accents et symboles Français à partir d'un `layout US ANSI`.
 
-La configuration à été réalisée sur un système **Debian 11.7** (Bullseye)
+La configuration à été réalisée sur un système **Debian 11.7** (Bullseye).
+
+**Note**: J'utilise le clavier en mode filaire uniquement, je ne parlerais donc pas de la configuration Bluetooth.
 
 ## Accents et symboles FR
 
@@ -65,3 +67,5 @@ sudo update-initramfs -u
 ```
 
 Enjoy 😉
+
+Voir également: <https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444>
